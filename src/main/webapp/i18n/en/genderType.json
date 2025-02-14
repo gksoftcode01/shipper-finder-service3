@@ -1,0 +1,10 @@
+{
+  "shipperfinderservice3App": {
+    "GenderType": {
+      "null": "",
+      "MALE": "MALE",
+      "FEMALE": "FEMALE",
+      "OTHER": "OTHER"
+    }
+  }
+}
